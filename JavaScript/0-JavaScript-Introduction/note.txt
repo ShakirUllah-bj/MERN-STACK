@@ -1,0 +1,31 @@
+What is JavaScript?
+
+Definition:
+JavaScript is a programming language used to make websites interactive and dynamic.
+It rus in the browsers
+
+Short History:
+-> Created in 1995 by Brendan Eich at Netscape.
+-> First Called Mocha, then
+   LiveScript, and finally JavaScript.
+-> Now maintained by ECMA (European Computer
+   Manufactucturers Association).
+-> Modern version is called ECMAScript (ES6 and above).
+
+Uses of JavaScript:
+-> Making web pages interactive.
+-> Validating forms (e.g. login, signup).
+-> Creating Animations and sliders.
+-> Building web apps and games.
+-> Updating content without reloading (AJAX).
+-> Used in frontend with (HTML, CSS) and backend with (Node.js).
+-> Mobile apps using React Native.
+
+Features:
+-> Easy to learn.
+-> Runs directly in browser
+-> Supports functions, objects, loops, events.
+-> Works on both client-side and server-side.
+-> Used with frameworks like React, Angular, Vue.
+
+
