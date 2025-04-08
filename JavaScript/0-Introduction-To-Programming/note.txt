@@ -1,0 +1,47 @@
+Introduction to programming
+
+I. What is Programming?
+Programming is the process of instructing a computer to perform a specific tast or a set of tasks.
+
+Key Concept:
+Writing a series of step-by-step instructions that a computer can understand and execute.
+Solving problems and automating tasks through code.
+
+II. why learn Programming?
+
+Empowerment:
+ability to create software applications , websites, and automate processes.
+Enhances porblem-solving skills and logical thinking.
+
+Versatility:
+Applicability in various domains such as web development, mobile apps, data scence, and more.
+Increasing demand for indivisuals with programming skills across industries.
+
+III. Programming Languages
+A programming language ia sa formal system designed to communicate instructions to a computer.
+
+Examples:
+JavaScript, Python, Java, C/C++, C# and many more.
+Each language has unique syntax and features.
+
+IV. How Computer Understand Programming Languages?
+
+Binary Code:
+Computers use binary code (0s and 1s) as their native language.
+Machine code consists of instructions directly executed by the computer's 
+central processing unit (CPU).
+
+Interpreters and Compilers:
+Interpreters translate code line-by-line at runtime.
+Compilers translate the entire code ino machine code before execution.
+
+V. High-level VS Low-level Languages
+
+High-level Languages:
+Closer to human languages, making it easier to read and write.
+
+Example: python, javascript, c, c# etc.
+
+Low-level Language:
+Closer to machine code, more challenging for humans to read and write.
+Example: assembly language
