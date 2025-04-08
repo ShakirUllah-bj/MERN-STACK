@@ -44,4 +44,4 @@ Example: python, javascript, c, c# etc.
 
 Low-level Language:
 Closer to machine code, more challenging for humans to read and write.
-Example: assembly language
+Example: assembly language.
