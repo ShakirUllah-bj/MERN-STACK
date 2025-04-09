@@ -39,6 +39,12 @@
 // let result = num1 % num2;
 // console.log(result);
 
+// 6. ** (Exponentiation): Raises the first number to the power of the second number
+// Example:
+// let num = 5;
+// num ** 3; // 5 x 5 x 5 = 125
+// console.log(num);
+
 // 6. ++ (Increament): Increases a number by 1.
 // Example:
 // let number = 10;
