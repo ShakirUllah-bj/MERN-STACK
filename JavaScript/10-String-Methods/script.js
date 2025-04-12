@@ -175,6 +175,54 @@
 // console.log(lastA); // 5
 
 // Example:
-let str = "I love JavaScript and JavaScript loves me";
-let lastJs = str.lastIndexOf("JavaScript");
-console.log(lastJs); // Output: 22
+// let str = "I love JavaScript and JavaScript loves me";
+// let lastJs = str.lastIndexOf("JavaScript");
+// console.log(lastJs); // Output: 22
+
+// 16. padStart():
+// The padStart() method adds extra characters to the beginning of a string untill it
+// reaches a certain length. it's aften used to format numbers, codes or timestamps (like "01", "002" etc).
+
+// Syntax:
+// string.padStart(targetLenght, padString);
+// targetLenght: final length of the string after padding.
+// padString: The string to add in front(like "0", " "). (Optional, default is space).
+
+// Example:
+// let num = "6";
+// let paddedNum = num.padStart(5, "0");
+// console.log(num);
+// console.log(paddedNum); // 00006
+// let name = "Shakir";
+// let paddedName = name.padStart(7, "@");
+// console.log(name);
+// console.log(paddedName);
+
+// 17. padEnd():
+// The padEnd() method adds extra character to the end of of string untill it reaches a certain lenght.
+// It's usefull for aligning text in tables or outputs.
+
+// Syntax:
+// string.padEnd(targetLength, padString);
+// targetLength: The final length we want after padding.
+// padString: The text to add at the end (like, " ", "."). (optional, default is space).
+
+// Example:
+// let name = "Shakir";
+// let paddedName = name.padEnd(10, ".");
+// console.log(paddedName); // Shakir....
+
+// 18. repeat():
+// The repeat() method creates a new string by repeating the original string a given number of times.
+
+// Syntax:
+// string.repeat(count);
+// count: A number that shoes how many times to repeat the stirng.
+// It must be 0 or more (cannot be negative).
+
+// Exmaple:
+// let name = "Shakir";
+// let repeatedName = name.repeat(5);
+// console.log(repeatedName);
+// let line = "-".repeat(30);
+// console.log(line);
