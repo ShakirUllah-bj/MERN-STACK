@@ -197,3 +197,33 @@
 // for (let key in characterCount) {
 //   console.log(`${key}: ${characterCount[key]}`);
 // }
+
+// break Statement:
+// Used to stop the loop immediately.
+
+// Example:
+// Stop on finding the first failed student
+
+// let marks = [90, 76, 32, 88, 95];
+// for (let i = 0; i < marks.length; i++) {
+//   if (marks[i] < 40) {
+//     console.log("Student faild with: " + marks[i] + " Marks.");
+//     console.log("Loop breaked.");
+//     break;
+//   } else {
+//     console.log("Student passed with: " + marks[i] + " Marks.");
+//   }
+// }
+
+// continue Statement:
+// Used to skip the current iteration and move to the next one.
+
+// Example:
+// print all even numbers from 1 to 10
+
+// for (let i = 0; i <= 10; i++) {
+//   if (i % 2 !== 0) {
+//     continue;
+//   }
+//   console.log(i);
+// }
